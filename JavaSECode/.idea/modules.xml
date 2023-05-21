@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter_cycle/Cycle.iml" filepath="$PROJECT_DIR$/chapter_cycle/Cycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSECode.iml" filepath="$PROJECT_DIR$/JavaSECode.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter05_array/chapter05_array.iml" filepath="$PROJECT_DIR$/chapter05_array/chapter05_array.iml" />
     </modules>
